@@ -1,0 +1,6 @@
+This project aims at creating a GUI/CLI based search engine, multi-lingual dictionary, thesaurus etc.
+
+Currently, I have utilized googleCSI API's for a GUI based search engine.
+Todo:
+1) find an opensource alternative to googleCSI
+2) Make it terminal-compatible
